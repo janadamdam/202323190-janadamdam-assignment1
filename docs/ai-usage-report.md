@@ -12,5 +12,9 @@ Using AI helped by providing guidence on the syntax
 ## Challenges
 Some suggestions required modification
 
+## Learning Outcomes
+AI helped me improve my workflow by providing quick examples and clarifying syntax issues, which made development faster and more organized.
+
+
 ## Responsible Use & Modifications
 All AI-generated suggestions were reviewed, edited, and tested before being used in the project.
